@@ -1,0 +1,6 @@
+n=int(input())
+m=int(input())
+print(f"Addition:{n+m}")
+print(f"Subtraction:{n-m}")
+print(f"Multiplication:{n*m}")
+print(f"Division:{n/m}")
